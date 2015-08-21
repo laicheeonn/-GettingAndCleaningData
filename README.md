@@ -5,7 +5,7 @@ This repo contains my script and result for Coursera "Getting and Cleaning Data"
 The data provided are processed data from a study about handphone accelerometers, with readings collected from 30 subjects during 6 different activities. The details of the study can be found in the following link.  
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-The data is divided into two sets, according to the group of the subjects, training and testing. The data contains estimate variables of the feature vector for several pattern, such as mean, standard deviation, maximum, minimum, correlation and etc. The label of the columns (varibles) is stored in seperate data files, same go to the identifier for each row (subject and activities).
+The data is divided into two sets, according to the group of the subjects, training and testing. The data contains variables of the feature vector for several pattern, such as mean, standard deviation, maximum, minimum, correlation and etc. The label of the columns (varibles) is stored in seperate data files, same go to the identifier for each row (subject and activities).
 
 For this project, i,
 * combined both test and train data into one table.
