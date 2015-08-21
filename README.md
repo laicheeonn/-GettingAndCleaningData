@@ -16,6 +16,8 @@ For this project, i,
 * saved the resulting averages in a data file with proper labelling of the columns and rows.
 * prepared a cookbook for the tidy data.
 
+The comments in the R script file provides futher details of what each block of code does. 
+
 Only the following data files were used in the process.
 * X_test, (the estimate variables for testing group).
 * X_train, (the estimate variables for training group).
